@@ -1,0 +1,14 @@
+[17:10:08] [com.tungsten.fclcore.auth.authlibinjector.AuthlibInjectorDownloader.checkUpdate/INFO] Checking update of authlib-injector
+[17:10:08] [com.tungsten.fclcore.event.EventBus.fireEvent/INFO] RefreshedVersionsEvent [source=FCLGameRepository [versions=[1.12.2, 1.21.8-Fabric, 1.7.10-Forge-LiteLoader-OptiFine, 1.9.4-OptiFine, 25w14craftmine, 25w32a, b1.8.1, inf-20100618, rd-132211], baseDirectory=/storage/emulated/0/FCL/.minecraft]] gets fired
+[17:10:08] [com.tungsten.fclcore.auth.authlibinjector.AuthlibInjectorServer.refreshMetadata/INFO] authlib-injector server metadata refreshed: https://littleskin.cn/api/yggdrasil/
+[17:10:08] [com.tungsten.fcl.setting.ConfigHolder.writeToConfig/INFO] Saving config
+[17:10:08] [com.tungsten.fclcore.auth.microsoft.MicrosoftService.lambda$new$0$com-tungsten-fclcore-auth-microsoft-MicrosoftService/INFO] Fetching properties of 61f30a6b-5bf4-4757-81d1-a889057ca164
+[17:10:08] [com.tungsten.fclcore.task.AsyncTaskExecutor.lambda$executeNormalTask$19$com-tungsten-fclcore-task-AsyncTaskExecutor/FINE] Executing task: com.tungsten.fcl.ui.main.MainUI.checkAnnouncement(MainUI.java:137)
+[17:10:08] [com.tungsten.fclcore.task.AsyncTaskExecutor.lambda$executeNormalTask$19$com-tungsten-fclcore-task-AsyncTaskExecutor/FINE] Executing task: com.tungsten.fcl.ui.main.MainUI.checkAnnouncement(MainUI.java:136)
+[17:10:08] [com.tungsten.fclcore.task.AsyncTaskExecutor.lambda$executeNormalTask$19$com-tungsten-fclcore-task-AsyncTaskExecutor/FINE] Executing task: com.tungsten.fcl.upgrade.UpdateChecker.check(UpdateChecker.java:53)
+[17:10:09] [com.tungsten.fclcore.task.AsyncTaskExecutor.lambda$executeNormalTask$29$com-tungsten-fclcore-task-AsyncTaskExecutor/FINER] Task finished: com.tungsten.fcl.ui.main.MainUI.checkAnnouncement(MainUI.java:136)
+[17:10:09] [com.tungsten.fclcore.task.AsyncTaskExecutor.lambda$executeNormalTask$29$com-tungsten-fclcore-task-AsyncTaskExecutor/FINER] Task finished: com.tungsten.fcl.ui.main.MainUI.checkAnnouncement(MainUI.java:137)
+[17:10:09] [com.tungsten.fclcore.task.AsyncTaskExecutor.lambda$executeNormalTask$29$com-tungsten-fclcore-task-AsyncTaskExecutor/FINER] Task finished: com.tungsten.fcl.upgrade.UpdateChecker.check(UpdateChecker.java:53)
+[17:13:52] [com.tungsten.fclcore.game.DefaultGameRepository.lambda$getGameVersion$0/WARNING] Cannot find out game version of inf-20100618, primary jar: /storage/emulated/0/FCL/.minecraft/versions/inf-20100618/inf-20100618.jar, jar exists: true
+[17:13:52] [com.tungsten.fclcore.game.DefaultGameRepository.lambda$getGameVersion$0/WARNING] Cannot find out game version of rd-132211, primary jar: /storage/emulated/0/FCL/.minecraft/versions/rd-132211/rd-132211.jar, jar exists: true
+[17:16:32] [com.tungsten.fcl.ui.setting.LauncherSettingPage.lambda$onClick$6$com-tungsten-fcl-ui-setting-LauncherSettingPage/INFO] Exporting logs to /storage/emulated/0/FCL/fcl-exported-logs-2025-09-07T17-16-32.log
